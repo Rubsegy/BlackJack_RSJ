@@ -1,3 +1,3 @@
-BlackJack v1.0 by Ruben Segura <br>
--- Add Code Crupier
--- Fix Sum function
+BlackJack v1.0 by Ruben Segura 
+Add Code Crupier <br>
+Fix Sum function
